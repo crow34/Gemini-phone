@@ -1,0 +1,9 @@
+{
+  "name": "AI Employee Connect",
+  "description": "A web application that emulates an Android phone interface, allowing you to have voice calls or text chats with a contact list of AI-powered 'employees' using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
